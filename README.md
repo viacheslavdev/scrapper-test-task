@@ -2,15 +2,6 @@
 
 This project is a web scraper designed to extract catalog information from the [Tus website](https://www.tus.si/). The scraper collects details such as the catalog name, PDF link, and date range, then saves the data to a JSON file.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Example Output](#example-output)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. **Clone the repository**:
