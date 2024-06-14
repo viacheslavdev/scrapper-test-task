@@ -1,6 +1,3 @@
-Конечно! Вот пример файла README.md для вашего проекта:
-
-```markdown
 # Web Scraping Project
 
 This project is a web scraper designed to extract catalog information from the [Tus website](https://www.tus.si/). The scraper collects details such as the catalog name, PDF link, and date range, then saves the data to a JSON file.
@@ -58,4 +55,4 @@ The output is saved as a JSON file in the `./catalogs` directory. Below is an ex
     "date": "19.06.2023 - 25.06.2023"
   }
 ]
-```
+
